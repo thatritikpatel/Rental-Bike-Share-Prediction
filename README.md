@@ -101,5 +101,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 - Ritik Patel - [ritik.patel129@gmail.com]
-- Project Link: [https://github.com/thatritikpatel/sensor_fault_detection/tree/main]
+- Project Link: [https://github.com/thatritikpatel/Rental-Bike-Share-Prediction]
 "# Rental-Bike-Share-Prediction" 
