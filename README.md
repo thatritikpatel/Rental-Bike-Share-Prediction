@@ -4,6 +4,14 @@
 
 Bike sharing systems automate rentals, allowing users to easily pick up and drop off bikes at different locations. With over 500 programs globally, these systems enhance traffic management, environmental sustainability, and public health. This project leverages machine learning to predict bike demand using valuable data from these systems.
 
+## Video Demo
+
+Here's a video demo of the project:
+
+```html
+<iframe width="560" height="315" src="https://github.com/thatritikpatel/Rental-Bike-Share-Prediction/blob/main/documents/bike_demand.mp4" frameborder="0" allowfullscreen></iframe>
+```
+
 ## Dataset
 
 The dataset consists of two-year historical logs from the Capital Bikeshare system in Washington D.C., USA. It includes detailed records of bike rentals, weather conditions, and seasonal information.
