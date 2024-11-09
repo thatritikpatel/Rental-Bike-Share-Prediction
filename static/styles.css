@@ -1,21 +1,31 @@
 .title {
-    color: blue;
+    color: rgb(22, 230, 88);
 }
 
 h2, h3 {
-    color: green;
+    color: rgb(23, 125, 215);
+    color: #219B9D;
+
 }
 
 h1, h2 {
     text-align: center;
+    color: #4C1F7A;
+
 }
+
 
 form {
     margin: 20px;
     text-align: center;
+    background-color: #b2c6f1;
 }
 
 input[type="submit"] {
     display: block;
     margin: 20px auto;
+}
+
+body {
+    background-color: #A6AEBF;
 }
