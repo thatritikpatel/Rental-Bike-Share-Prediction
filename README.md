@@ -8,8 +8,8 @@ Bike sharing systems automate rentals, allowing users to easily pick up and drop
 
 Here's a video demo of the project:
 
-[![Video Demo](https://github.com/user-attachments/assets/02edafd6-b63e-4e1f-a97c-ef55b2df8f46
-)
+[![Video Demo]https://github.com/user-attachments/assets/02edafd6-b63e-4e1f-a97c-ef55b2df8f46
+
 
 
 ## Dataset
