@@ -9,8 +9,10 @@ Bike sharing systems automate rentals, allowing users to easily pick up and drop
 Here's a video demo of the project:
 
 ```html
-<iframe width="560" height="315" src="https://github.com/thatritikpatel/Rental-Bike-Share-Prediction/blob/main/documents/bike_demand.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
 ```
+[![Video Demo](https://github.com/thatritikpatel/Rental-Bike-Share-Prediction/blob/main/documents/bike_demand.mp4)](https://github.com/thatritikpatel/Rental-Bike-Share-Prediction/blob/main/documents/bike_demand.mp4)
+
 
 ## Dataset
 
