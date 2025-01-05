@@ -108,6 +108,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 ## Contact
-- Ritik Patel - [ritik.patel129@gmail.com]
+- Ritik Patel - [https://www.linkedin.com/in/thatritikpatel/]
 - Project Link: [https://github.com/thatritikpatel/Rental-Bike-Share-Prediction]
 "# Rental-Bike-Share-Prediction" 
